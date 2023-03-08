@@ -1,2 +1,2 @@
-# Conditional-Rendering-using-ternary operator-and-&&-in-react
-Created with CodeSandbox
+# Conditional-Rendering-in-react
+Conditional Rendering using ternary operator and && in react
